@@ -1,0 +1,192 @@
+[
+  {
+    "hotelId": "h1",
+    "reviews": [
+      {
+        "id": "r1-1",
+        "userName": "Sarah Johnson",
+        "userAvatar": "SJ",
+        "rating": 5,
+        "date": "2025-11-10",
+        "comment": "Absolutely loved my stay! The eco-friendly approach is impressive, and the 3D room tour helped me choose the perfect room. Staff was incredibly helpful.",
+        "isFake": false,
+        "helpful": 24
+      },
+      {
+        "id": "r1-2",
+        "userName": "Michael Chen",
+        "userAvatar": "MC",
+        "rating": 5,
+        "date": "2025-11-08",
+        "comment": "Best hotel ever! Amazing service! Everything perfect! Highly recommend! Great location! Wonderful experience! Five stars!",
+        "isFake": true,
+        "helpful": 2
+      },
+      {
+        "id": "r1-3",
+        "userName": "Emma Williams",
+        "userAvatar": "EW",
+        "rating": 4,
+        "date": "2025-11-05",
+        "comment": "Great sustainable practices and the air quality monitoring is a nice touch. Room was clean and comfortable. Only minor issue was the WiFi speed in the evening.",
+        "isFake": false,
+        "helpful": 18
+      },
+      {
+        "id": "r1-4",
+        "userName": "David Martinez",
+        "userAvatar": "DM",
+        "rating": 5,
+        "date": "2025-11-03",
+        "comment": "This is the best hotel in the world! Everything is perfect! Amazing! Wonderful! Excellent! Fantastic! Outstanding! Superb!",
+        "isFake": true,
+        "helpful": 1
+      },
+      {
+        "id": "r1-5",
+        "userName": "Lisa Anderson",
+        "userAvatar": "LA",
+        "rating": 4,
+        "date": "2025-10-28",
+        "comment": "Really appreciated the environmental metrics displayed in the room. The water quality was excellent. Breakfast had great local options. Would stay again!",
+        "isFake": false,
+        "helpful": 31
+      }
+    ]
+  },
+  {
+    "hotelId": "h2",
+    "reviews": [
+      {
+        "id": "r2-1",
+        "userName": "James Wilson",
+        "userAvatar": "JW",
+        "rating": 5,
+        "date": "2025-11-12",
+        "comment": "The virtual room tour was a game-changer! I knew exactly what to expect. The hotel exceeded expectations with its sustainability focus.",
+        "isFake": false,
+        "helpful": 19
+      },
+      {
+        "id": "r2-2",
+        "userName": "ReviewBot123",
+        "userAvatar": "RB",
+        "rating": 5,
+        "date": "2025-11-11",
+        "comment": "Excellent hotel! Best service! Perfect! Amazing! Great! Wonderful! Highly recommend to everyone! Five stars always!",
+        "isFake": true,
+        "helpful": 0
+      },
+      {
+        "id": "r2-3",
+        "userName": "Patricia Brown",
+        "userAvatar": "PB",
+        "rating": 4,
+        "date": "2025-11-07",
+        "comment": "Lovely hotel with excellent attention to environmental details. The live monitoring of air and water quality gave me peace of mind. Minor noise from the street at night.",
+        "isFake": false,
+        "helpful": 22
+      },
+      {
+        "id": "r2-4",
+        "userName": "Robert Taylor",
+        "userAvatar": "RT",
+        "rating": 5,
+        "date": "2025-11-01",
+        "comment": "Outstanding experience! The eco-score system is innovative. Room was spacious and the 3D visualization helped me make an informed decision.",
+        "isFake": false,
+        "helpful": 27
+      }
+    ]
+  },
+  {
+    "hotelId": "h3",
+    "reviews": [
+      {
+        "id": "r3-1",
+        "userName": "Jennifer Garcia",
+        "userAvatar": "JG",
+        "rating": 5,
+        "date": "2025-11-09",
+        "comment": "Best hotel best service best everything! Perfect location perfect rooms perfect staff! Amazing wonderful excellent fantastic!",
+        "isFake": true,
+        "helpful": 3
+      },
+      {
+        "id": "r3-2",
+        "userName": "Christopher Lee",
+        "userAvatar": "CL",
+        "rating": 4,
+        "date": "2025-11-06",
+        "comment": "Very impressed with the environmental monitoring system. You can actually see the air quality metrics in real-time. Great concept for eco-conscious travelers.",
+        "isFake": false,
+        "helpful": 29
+      },
+      {
+        "id": "r3-3",
+        "userName": "Amanda White",
+        "userAvatar": "AW",
+        "rating": 5,
+        "date": "2025-10-30",
+        "comment": "The 3D room preview is brilliant! Saved me from booking the wrong room type. Hotel was clean, staff friendly, and sustainability practices were genuine.",
+        "isFake": false,
+        "helpful": 35
+      },
+      {
+        "id": "r3-4",
+        "userName": "User12345",
+        "userAvatar": "U1",
+        "rating": 5,
+        "date": "2025-10-25",
+        "comment": "Great hotel great service great experience great location great rooms great staff great everything great great great!",
+        "isFake": true,
+        "helpful": 1
+      }
+    ]
+  },
+  {
+    "hotelId": "h4",
+    "reviews": [
+      {
+        "id": "r4-1",
+        "userName": "Daniel Harris",
+        "userAvatar": "DH",
+        "rating": 4,
+        "date": "2025-11-13",
+        "comment": "Solid eco-friendly hotel. The water quality monitoring is a nice touch. Room was comfortable and breakfast was good. A bit pricey but worth it for the quality.",
+        "isFake": false,
+        "helpful": 16
+      },
+      {
+        "id": "r4-2",
+        "userName": "Michelle Martin",
+        "userAvatar": "MM",
+        "rating": 5,
+        "date": "2025-11-04",
+        "comment": "Incredible stay! The environmental metrics dashboard in the room is fascinating. You can actually track PM2.5, VOC levels, and water quality in real-time.",
+        "isFake": false,
+        "helpful": 33
+      },
+      {
+        "id": "r4-3",
+        "userName": "BestReviewer",
+        "userAvatar": "BR",
+        "rating": 5,
+        "date": "2025-11-02",
+        "comment": "Perfect perfect perfect! Amazing amazing amazing! Excellent excellent excellent! Best best best! Wonderful wonderful wonderful!",
+        "isFake": true,
+        "helpful": 0
+      },
+      {
+        "id": "r4-4",
+        "userName": "Kevin Thompson",
+        "userAvatar": "KT",
+        "rating": 4,
+        "date": "2025-10-27",
+        "comment": "Good hotel with innovative technology. The 3D room tour and live environmental monitoring set it apart. Staff could be more attentive during check-in.",
+        "isFake": false,
+        "helpful": 21
+      }
+    ]
+  }
+]

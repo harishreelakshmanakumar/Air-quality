@@ -1,0 +1,94 @@
+[
+  {
+    "roomId": "r1",
+    "airQuality": {
+      "aqi": 22,
+      "co2": 510,
+      "pm25": 6,
+      "pm10": 12,
+      "sox": 2.5,
+      "nox": 8.2,
+      "voc": 85,
+      "co": 0.5
+    },
+    "waterQuality": {
+      "tds": 20,
+      "ph": 7.2,
+      "turbidity": 0.9,
+      "dissolvedOxygen": 8.5
+    },
+    "noise": 33,
+    "temperature": 24,
+    "humidity": 56,
+    "ecoScore": 92
+  },
+  {
+    "roomId": "r2",
+    "airQuality": {
+      "aqi": 20,
+      "co2": 480,
+      "pm25": 5,
+      "pm10": 10,
+      "sox": 2.1,
+      "nox": 7.8,
+      "voc": 78,
+      "co": 0.4
+    },
+    "waterQuality": {
+      "tds": 18,
+      "ph": 7.1,
+      "turbidity": 0.7,
+      "dissolvedOxygen": 8.8
+    },
+    "noise": 31,
+    "temperature": 23,
+    "humidity": 54,
+    "ecoScore": 93
+  },
+  {
+    "roomId": "r3",
+    "airQuality": {
+      "aqi": 18,
+      "co2": 470,
+      "pm25": 4,
+      "pm10": 9,
+      "sox": 1.8,
+      "nox": 7.2,
+      "voc": 72,
+      "co": 0.3
+    },
+    "waterQuality": {
+      "tds": 17,
+      "ph": 7.3,
+      "turbidity": 0.6,
+      "dissolvedOxygen": 9.0
+    },
+    "noise": 29,
+    "temperature": 22,
+    "humidity": 52,
+    "ecoScore": 90
+  },
+  {
+    "roomId": "r4",
+    "airQuality": {
+      "aqi": 19,
+      "co2": 490,
+      "pm25": 5,
+      "pm10": 11,
+      "sox": 2.3,
+      "nox": 7.9,
+      "voc": 80,
+      "co": 0.4
+    },
+    "waterQuality": {
+      "tds": 19,
+      "ph": 7.0,
+      "turbidity": 0.8,
+      "dissolvedOxygen": 8.6
+    },
+    "noise": 30,
+    "temperature": 23,
+    "humidity": 53,
+    "ecoScore": 91
+  }
+]

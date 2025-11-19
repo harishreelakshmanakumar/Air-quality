@@ -1,0 +1,54 @@
+[
+  {
+    "id": "h1",
+    "name": "Kongu Engineering College",
+    "location": "Perundurai, Erode",
+    "rating": 4.5,
+    "price": 1800,
+    "ecoScore": 90,
+    "airQuality": 85,
+    "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?auto=format&fit=crop&w=1200&q=80",
+    "description": "Cozy stay with smart ventilation, planted courtyards, and quick access to Perundurai junction.",
+    "facilities": ["Smart Lock", "Courtyard", "Filtered Water", "EV Parking"],
+    "tagline": "Quiet, connected, comfortable"
+  },
+  {
+    "id": "h2",
+    "name": "Thrisha Residence",
+    "location": "Karungalpalayam, Erode",
+    "rating": 4.6,
+    "price": 2200,
+    "ecoScore": 92,
+    "airQuality": 88,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+    "description": "Modern suites with biophilic design, HEPA filtration, and smart blinds for restful nights near the river.",
+    "facilities": ["HEPA Air", "Smart Shades", "Breakfast", "Rooftop Garden"],
+    "tagline": "Fresh air by the riverfront"
+  },
+  {
+    "id": "h3",
+    "name": "Harishree Stay",
+    "location": "Palayapalayam, Erode",
+    "rating": 4.4,
+    "price": 1200,
+    "ecoScore": 88,
+    "airQuality": 87,
+    "image": "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?auto=format&fit=crop&w=1200&q=80",
+    "description": "Minimalist rooms with calm palettes, purified air, and river breeze cross-ventilation.",
+    "facilities": ["Air Purifier", "Workspace", "Filtered Water", "24/7 Support"],
+    "tagline": "Minimal, airy, mindful"
+  },
+  {
+    "id": "h4",
+    "name": "Gokul Hut",
+    "location": "Thindal, Erode",
+    "rating": 4.5,
+    "price": 1500,
+    "ecoScore": 89,
+    "airQuality": 90,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+    "description": "Spacious suites near Thindal with noise-dampened walls, green terraces, and solar-assisted power.",
+    "facilities": ["Solar Power", "Noise Shielding", "Green Terrace", "Gym"],
+    "tagline": "Space to pause and recharge"
+  }
+]

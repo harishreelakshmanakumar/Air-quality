@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+a {
+  @apply text-primary;
+}
+
+button {
+  @apply focus:outline-none focus:ring-2 focus:ring-primary/50;
+}
+
+.card {
+  @apply bg-white shadow-card rounded-2xl p-5 border border-slate-100;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "hari-hotel-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.95.0",
+    "@react-three/fiber": "^8.15.12",
+    "autoprefixer": "^10.4.16",
+    "firebase": "^12.6.0",
+    "next": "^14.2.5",
+    "nodemailer": "^7.0.10",
+    "postcss": "^8.4.33",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.4",
+    "three": "^0.159.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "@types/nodemailer": "^7.0.4",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.5",
+    "typescript": "^5.4.5"
+  }
+}

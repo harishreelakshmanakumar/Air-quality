@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "hotelId": "h1",
+    "name": "Kongu TBI",
+    "size": "32 sqm",
+    "beds": "1 Queen",
+    "price": 1800,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1000&q=80",
+    "description": "Opens to a planted courtyard with smart ventilation and filtered water tap."
+  },
+  {
+    "id": "r2",
+    "hotelId": "h2",
+    "name": "Riverfront Suite",
+    "size": "40 sqm",
+    "beds": "1 King",
+    "price": 2200,
+    "image": "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?auto=format&fit=crop&w=1000&q=80",
+    "description": "Biophilic interiors, HEPA air, and smart blinds with river views."
+  },
+  {
+    "id": "r3",
+    "hotelId": "h3",
+    "name": "Minimal Twin",
+    "size": "28 sqm",
+    "beds": "2 Twin",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?auto=format&fit=crop&w=1000&q=80",
+    "description": "Calming palette, purified air, and work-friendly desk lighting."
+  },
+  {
+    "id": "r4",
+    "hotelId": "h4",
+    "name": "Garden Loft",
+    "size": "36 sqm",
+    "beds": "1 King",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1000&q=80",
+    "description": "Green terrace access, solar-assisted power, and noise-dampened walls."
+  }
+]
