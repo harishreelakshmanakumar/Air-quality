@@ -6,11 +6,13 @@ import { Canvas, useThree } from "@react-three/fiber";
 import { Environment, OrbitControls, useGLTF } from "@react-three/drei";
 import { useEffect, useMemo, useState } from "react";
 import { notFound } from "next/navigation";
+import * as THREE from "three";
 
 function RoomModel({ rotation }: { rotation: number }) {
   const { scene } = useGLTF("/models/room.glb");
   // Memoize the scene so controls only adjust rotation value
   const cloned = useMemo(() => scene.clone(), [scene]);
+  // @ts-ignore - React Three Fiber primitive component
   return <primitive object={cloned} rotation={[0, rotation, 0]} position={[0, -0.5, 0]} />;
 }
 
@@ -50,7 +52,9 @@ export default function Room3DPage({ params }: { params: { roomId: string } }) {
         <div className="card">
           <div className="relative h-[480px] w-full overflow-hidden rounded-2xl bg-slate-900">
             <Canvas camera={{ position: [0, 1.2, distance], fov: 45 }}>
+              {/* @ts-ignore - React Three Fiber light components */}
               <ambientLight intensity={ambientIntensity} />
+              {/* @ts-ignore - React Three Fiber light components */}
               <directionalLight position={[2, 3, 2]} intensity={directionalIntensity} color={mode === "day" ? "white" : "#9fdcff"} />
               <RoomModel rotation={rotation} />
               <Environment preset={skyPreset as any} />
