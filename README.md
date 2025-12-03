@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Then open http://localhost:3000
+Then open https://hari-hotel-demo.netlify.app/
 
 ## Structure
 - `app/` – pages (home, search, hotel, room 3d/metrics, booking)
